@@ -10,6 +10,8 @@ Topics learned:
 <li>organizing files and using: 
   
   `use` , `mod` , and `pub mod`</li>
-<li>coding, exporting, and using `structs` and `impl` </li>
+<li>coding, exporting, and using:
+  
+  `structs` and `impl` </li>
 </ul>
 <li> <strong> Nov 8, 2021 </strong> - Starting on subsection 3 "Defining functionality with traits" -
