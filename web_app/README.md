@@ -14,4 +14,4 @@ Topics learned:
   
   `structs` and `impl` </li>
 </ul>
-<li> <strong> Nov 8, 2021 </strong> - Starting on subsection 3 "Defining functionality with traits" -
+<li> <strong> Nov 15, 2021 </strong> - Starting on subsection 3 "Defining functionality with <strong> traits</strong>" -

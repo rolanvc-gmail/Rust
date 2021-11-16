@@ -1,1 +1,1 @@
-pub mod structs;
+pub mod structs; // This declares the module 'structs, whose contents are in the folder 'structs'
