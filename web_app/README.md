@@ -16,3 +16,4 @@ Topics learned:
 </ul>
 <li> <strong> Nov 15, 2021 </strong> - Starting on subsection 3 "Defining functionality with <strong> traits</strong>" -</li>
 <li> <strong> Nov 16, 2021 </strong> - Completed <strong>Section 1: Setting up the Web App Structure</strong>. This includes Chapters 1 & 2.
+
